@@ -1,0 +1,5 @@
+host = 34.91.131.231
+port = 5432
+database = taz_db_new
+user = odoo17
+password = admin
